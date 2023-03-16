@@ -1,4 +1,4 @@
-# Create sensitive variables using 
+# Create sensitive variables using tfvars file
 :star: 創建 terraform.tfvars
 ```
 gitlab_api_token = "<your personal access token for access gitlab permissions>"
